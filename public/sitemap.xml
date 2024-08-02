@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/blog/categories/</loc>
+    <lastmod>2024-08-02T11:34:29+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/css/</loc>
+    <lastmod>2024-08-02T11:34:29+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/categories/first/</loc>
+    <lastmod>2024-08-02T11:34:29+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/posts/first/</loc>
+    <lastmod>2024-08-02T11:34:29+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/html/</loc>
+    <lastmod>2024-08-02T11:34:29+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2024-08-02T11:34:29+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/posts/</loc>
+    <lastmod>2024-08-02T11:34:29+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/</loc>
+    <lastmod>2024-08-02T11:34:29+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/categories/second/</loc>
+    <lastmod>2024-08-02T10:34:29+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/posts/second/</loc>
+    <lastmod>2024-08-02T10:34:29+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/archives/</loc>
+  </url>
+</urlset>
