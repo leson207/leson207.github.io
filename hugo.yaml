@@ -18,7 +18,7 @@ params:
   description: "Records of the universe"
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["static/img/trusks.jpg"]
+  # images: ["static/img/trusks.jpg"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
